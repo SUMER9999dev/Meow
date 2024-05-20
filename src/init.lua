@@ -2,6 +2,7 @@ local Box = require(script.Box)
 local Runtime = require(script.Runtime)
 local Hooks = require(script.Hooks)
 local Decorators = require(script.Decorators)
+local InjectorSymbol = require(script.InjectorSymbol)
 
 local types = require(script.types)
 
@@ -30,6 +31,8 @@ return {
     Depends = Decorators.Depends,
     Named = Decorators.Named,
     RunOrder = Decorators.RunOrder,
+
+    InjectorSymbol = InjectorSymbol,
 
     faceof = types.faceof
 }
