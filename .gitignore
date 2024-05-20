@@ -1,0 +1,10 @@
+# Project place file
+/Meow.rbxlx
+/Meow.rbxm
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Rojo files
+/sourcemap.json

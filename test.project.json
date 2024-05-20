@@ -1,0 +1,15 @@
+{
+	"name": "MeowTests",
+
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"$className": "ReplicatedStorage",
+
+			"Meow": {
+				"$path": "src"
+			}
+		}
+	}
+}

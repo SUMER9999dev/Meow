@@ -1,0 +1,8 @@
+{
+  "globIgnorePaths": ["src/__tests__"],
+
+  "name": "Meow",
+  "tree": {
+    "$path": "src"
+  }
+}
