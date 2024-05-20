@@ -29,5 +29,7 @@ return {
     Decorate = Decorators.Decorate,
     Depends = Decorators.Depends,
     Named = Decorators.Named,
-    RunOrder = Decorators.RunOrder
+    RunOrder = Decorators.RunOrder,
+
+    faceof = types.faceof
 }
