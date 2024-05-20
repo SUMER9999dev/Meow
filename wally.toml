@@ -1,0 +1,10 @@
+[package]
+name = "sumer9999dev/meow"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+authors = ["SUMER <Discord: sumer_real>"]
+exclude = ["testez.d.lua", "testez-companion.toml", "sourcemap.json", "test.project.json"]
+
+[dependencies]
